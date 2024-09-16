@@ -1,4 +1,4 @@
-#### All of my work is under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html)
+#### All of my work is under the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 ## Ello there! I'm Wize (aka LiterallyWize).
 
 With 6+ years of experience in Luau, I've shifted my focus away from my Roblox projects, and am now primarily working with C++! I also like to dabble into other languages, particularly Java / JavaScript and Python.

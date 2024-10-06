@@ -17,7 +17,11 @@ Often I try to reinvent the wheel just for the thrill of it!
 
 ## Social Links:
 
-My music, and other content can be found on [Youtube](https://www.youtube.com/@LiterallyWize) and [Spotify](https://open.spotify.com/artist/3b3SM98HFVmOcE46DSgGwQ?si=012ddd67f52d4c43), as well as other streaming services.
+My games can be found on [itch.io](https://literallywize.itch.io/)
+
+My music can be found on [Spotify](https://open.spotify.com/artist/3b3SM98HFVmOcE46DSgGwQ?si=012ddd67f52d4c43), as well as other streaming services. I don't regularly update my [SoundCloud](https://soundcloud.com/literallywize), but most of my music is on there as well.
+
+My music videos and other content can be found on [Youtube](https://www.youtube.com/@LiterallyWize)
 
 ## 
 Thanks for reading! 

@@ -1,12 +1,23 @@
-## Ello there! I'm Wize (aka LiterallyWize).
+## Ello there! I'm Wize (aka LiterallyWize). 
 
-With 6+ years of experience in Luau, I've shifted my focus away from my Roblox projects, and am now primarily working with C++! I also like to dabble a lil bit in languages like Java / JavaScript and Python.
+I'm interested in stuff like creating game engines, creating games with 'em, developing physics / graphics systems, creating file formats, and such. 
+Often I try to reinvent the wheel just for the thrill of it! 
 
-_"Graphics"_ is my favourite word, and I'm interested in stuff like creating game engines, creating games with 'em, OpenGL and Vulkan, developing physics / graphics systems, creating file formats, and such! 
-Often I try to reinvent the wheel just for the thrill of it!
+## Programming Experience (as of October 6th, 2024): 
 
-I prioritize quality over all else, and I’m all about pushing my limits, perfecting my code, and of course, coffee.
+**C++:**  ~2 months. I'm very, very interested in this language, and have a good grasp of it. 
 
-#### (I also enjoy composing and producing music! You can check out my Spotify [here.](https://open.spotify.com/artist/3b3SM98HFVmOcE46DSgGwQ?si=012ddd67f52d4c43))
-# 
-Thanks for reading!
+**Rust:**  Beginning to learn as of today. I'm very interested in this language, and excited to learn it. 
+
+**Luau:**  6+ years. I'm very experienced and confident in using this language. 
+
+**Python:**  Under a month. I'm partly interested, and planning on using this language more. 
+
+**GDScript:**  6+ months. I'm fairly knowledgeable in this language, though not very interested. 
+
+## Social Links:
+
+My music, and other content can be found on [Youtube](https://www.youtube.com/@LiterallyWize) and [Spotify](https://open.spotify.com/artist/3b3SM98HFVmOcE46DSgGwQ?si=012ddd67f52d4c43), as well as other streaming services.
+
+## 
+Thanks for reading! 

@@ -1,19 +1,19 @@
 ## Ello there! I'm Wize (aka LiterallyWize).
 
-I'm interested in stuff like creating game engines, creating games with 'em, developing physics / graphics systems, creating file formats, and such.
-Often I try to reinvent the wheel just for the thrill of it!
+I'm interested in stuff like video game graphics, data compression, game engines, and such.
+<br>Often I like to reinvent the wheel for the thrill of it!
 
-## Programming Experience (as of October 22, 2024):
+## Programming Experience (as of March 11, 2025):
 
-**C++:**  ~3 months. I'm very, very interested in this language, and have a good grasp of it.
+**Luau:**  7 years. I'm very experienced and confident in using this language.
 
-**Rust:**  Under a month. I'm very interested in this language, and excited to learn it.
+**C++:**  7 months. I'm very interested in this language, and am reasonably experienced in using it.
 
-**Luau:**  6+ years. I'm very experienced and confident in using this language.
+**Rust:**  5 months. I plan on using this language more in the future, and am partially experienced in using it.
 
-**Python:**  Under a month. I'm partly interested, and planning on using this language more.
+**Python:**  5 months. I'm somewhat experienced in using this language, though not very interested.
 
-**GDScript:**  6+ months. I'm fairly knowledgeable in this language, though not very interested.
+###### *(Please note that these state roughly the time since my FIRST usage of a language, not active usage.)*
 
 ## Social Links:
 

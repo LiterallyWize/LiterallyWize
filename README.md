@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="#"><img width="400" height="253" src="https://github.com/user-attachments/assets/f559c1b0-d723-40e4-bc0c-45c2c73035d2"/></a> </p>
 
-### <p align="center"> [Ello there!](# "You") [I'm Wize,](# "should") [a developer](# "play") [with 8+ years](# "In") [of experience](# "Stars") [using the](# "and") [Luau programming](# "Time") [language.](# "now!") </p>
+### <p align="center"> ['Ello!](# "You") [I'm Wize,](# "should") [a self-taught](# "play") [developer with](# "In") [8+ years](# "Stars") [of experience](# "and") [using the](# "Time") [Luau programming language.](# "now!") </p>
 
 <p align="center"> <a href="#"><img width="960" height="160" src="https://github.com/user-attachments/assets/a369f3dc-cbfc-43fb-8ecb-a06cd2b140be"/></a> </p>
 

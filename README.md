@@ -6,6 +6,6 @@
 
 #### <p align="center"> <i> [“I](# "You") [like](# "should") [smashing](# "play") [limitations](# "In") [with](# "Stars") [a](# "and") [sledgehammer.”](# "Time")[ - Me](# "now!") </i> </p>
 
-## <p align="center"> [Roblox](https://www.roblox.com/users/1341839736)  •  [Youtube](https://youtube.com/LiterallyWize)  •  [Itch.io](https://literallywize.itch.io/) </p>
+## <p align="center"> [Roblox](https://www.roblox.com/users/1341839736)  •  [YouTube](https://youtube.com/LiterallyWize)  •  [itch.io](https://literallywize.itch.io/) </p>
 
 <p align="center">  Besides Luau, I've also worked with C++, Python, and JavaScript. </p>

@@ -4,8 +4,8 @@
 
 <!-- ## [Roblox](https://www.roblox.com/users/1341839736)  •  [YouTube](https://youtube.com/LiterallyWize)  •  [itch.io](https://literallywize.itch.io/) -->
 
-### <sub><img src="assets/sifWave.webp" title="sifWave"/></sub>  i'm wize, a self-taught developer with 8+ years of experience using the [**Luau scripting language!**](https://luau.org)
+### <picture><sub><img src="assets/sifWave.webp" title="sifWave"/></sub></picture>  i'm wize, a self-taught developer with 8+ years of experience using the [**Luau scripting language!**](https://luau.org)
 
-<a href="#"><img src="assets/quote.png"/></a>
+<picture><img src="assets/quote.png"/></picture>
 
 </div>

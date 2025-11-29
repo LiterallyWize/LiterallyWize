@@ -6,6 +6,6 @@
 
 <!-- ## [Roblox](https://www.roblox.com/users/1341839736)  •  [YouTube](https://youtube.com/LiterallyWize)  •  [itch.io](https://literallywize.itch.io/) -->
 
-#### <sub><img src="assets/sifWave.webp" width="33" height="33" title="sifWave"/></sub> i'm wize, a self-taught developer with 8+ years of experience using the [**Luau scripting language!**](https://luau.org)
+### <sub><sub><img src="assets/sifWave.webp" width="44" height="44" title="sifWave"/></sub></sub> i'm wize, a self-taught developer with 8+ years of experience using the [**Luau scripting language!**](https://luau.org)
 
 </div>

@@ -4,10 +4,8 @@
 
 # <a href="#"><img src="assets/quote1.png" width="501" height="20"/></a>
 
-<img src="https://cdn.discordapp.com/emojis/1281474496674398210.webp?size=44&animated=true" width="44" height="44" alt="sifWave" title="sifWave"/>
-
-i'm wize, a self-taught developer with 8+ years of experience using the [**Luau scripting language!**](https://luau.org)
-
 <!-- ## [Roblox](https://www.roblox.com/users/1341839736)  •  [YouTube](https://youtube.com/LiterallyWize)  •  [itch.io](https://literallywize.itch.io/) -->
+
+#### <sub><img src="assets/sifWave.webp" width="33" height="33" title="sifWave"/></sub> i'm wize, a self-taught developer with 8+ years of experience using the [**Luau scripting language!**](https://luau.org)
 
 </div>
